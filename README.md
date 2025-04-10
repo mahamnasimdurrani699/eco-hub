@@ -32,11 +32,6 @@
 
 ---
 
-## 📸 Screenshots
-
-> Add your UI screenshots here — Home Page, Product Detail, Cart, Checkout, Admin Dashboard, etc.
-
----
 
 ## 📁 Project Structure
 
