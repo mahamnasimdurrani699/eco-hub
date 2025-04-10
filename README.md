@@ -3,8 +3,6 @@
 **EcoHub** is an eco-friendly eCommerce platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js), designed to promote sustainable shopping. It connects eco-conscious consumers with verified green products while offering a sleek, modern shopping experience.
 
 > 💡 Final Year Project – BS Information Technology  
-> Govt. Graduate College for Women, Wahdat Colony, Lahore  
-> Developed by: Syeda Aiza Fatima & Maham Nasim Durani
 
 ---
 
