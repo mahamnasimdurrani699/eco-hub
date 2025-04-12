@@ -7,7 +7,7 @@ import decor from "../assets/decor.webp";
 import earbuds from "../assets/earbuds.webp";
 import fragrancebooster from "../assets/fragrancebooster.webp";
 import kichensponges from "../assets/kichensponges.webp";
-import kitcenTowel from "../assets/kitcentowel.jpeg";
+import kitcenTowel from "../assets/kitcenTowel.jpeg";
 import lamp from "../assets/lamp.jpeg";
 import napkins from "../assets/napkins.webp";
 import reusablebag from "../assets/reusablebag.webp";
