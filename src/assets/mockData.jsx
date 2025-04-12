@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import straw from "../assets/straw.jpeg";
-import jars from "../assets/jars.jpg";
+import jars from "../assets/jars.jpg"
 import lunch_box from "../assets/lunch_box.jpg";
 import  containersAll from "../assets/containersAll.webp"
 import dabii from "../assets/dabii.jpg";
