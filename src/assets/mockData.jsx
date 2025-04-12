@@ -8,7 +8,7 @@ import friesBox from "../assets/friesBox.webp";
 import plates from "../assets/plates.jpg";
 import  kitchenset from "../assets/kitchenset.jpg";
 import  spoonset from "../assets/spoonset.jpg";
-import  steelbottle from "../assets/steelbottle.jpg";
+import  steelbottle from "../assets/steelBottle.jpg";
 import  knottedSkewers from "../assets/knottedSkewers.webp";
 import  multipurposeBox from "../assets/multipurposeBox.webp";
 import  compartmentBowl from "../assets/compartmentBowl.jpg";
@@ -239,41 +239,41 @@ export const food = [
 ,
 },
   
-{
-  id: 28,
-  name: " steel bottel",
-  image: steelbottle,
-  price: 150,
-  description:<p><b>Stay Hydrated, Stay Sustainable with Our Stainless Steel Bottle!</b>
+// {
+//   id: 28,
+//   name: " steel bottel",
+//   image: steelbottle,
+//   price: 150,
+//   description:<p><b>Stay Hydrated, Stay Sustainable with Our Stainless Steel Bottle!</b>
 
-  <p>Crafted from <b>high-quality, food-grade stainless steel</b>, this eco-friendly bottle keeps drinks hot for 12 hours and cold for 24 hours while reducing plastic waste.</p>
+//   <p>Crafted from <b>high-quality, food-grade stainless steel</b>, this eco-friendly bottle keeps drinks hot for 12 hours and cold for 24 hours while reducing plastic waste.</p>
   
-  <p><b>Key Features:</b></p>
-  <ul>
-    <li> <b>Double-wall insulation</b> – Maintains temperature longer</li>
-    <li> <b>Leak-proof & sweat-free</b> – No spills, no mess</li>
-    <li> <b>Durable & rust-resistant</b> – Built to last</li>
-    <li> <b>BPA-free & toxin-free</b> – Safe & eco-friendly</li>
-    <li> <b>Lightweight & travel-friendly</b> – Perfect for any adventure</li>
-  </ul>
+//   <p><b>Key Features:</b></p>
+//   <ul>
+//     <li> <b>Double-wall insulation</b> – Maintains temperature longer</li>
+//     <li> <b>Leak-proof & sweat-free</b> – No spills, no mess</li>
+//     <li> <b>Durable & rust-resistant</b> – Built to last</li>
+//     <li> <b>BPA-free & toxin-free</b> – Safe & eco-friendly</li>
+//     <li> <b>Lightweight & travel-friendly</b> – Perfect for any adventure</li>
+//   </ul>
   
-  <p>Ideal for <b>coffee, tea, or water</b>, our <b>Steel Bottle</b> is the perfect sustainable hydration solution!</p>
-  </p>,
-  info:<p><b>Stay Hydrated, Stay Eco-Friendly with Our Premium Steel Bottle!</b>
+//   <p>Ideal for <b>coffee, tea, or water</b>, our <b>Steel Bottle</b> is the perfect sustainable hydration solution!</p>
+//   </p>,
+//   info:<p><b>Stay Hydrated, Stay Eco-Friendly with Our Premium Steel Bottle!</b>
 
-  <p>Upgrade your hydration game with our <b>durable, stylish, and eco-conscious</b> stainless steel bottle. Designed for convenience, it keeps your drinks fresh while reducing plastic waste.</p>
+//   <p>Upgrade your hydration game with our <b>durable, stylish, and eco-conscious</b> stainless steel bottle. Designed for convenience, it keeps your drinks fresh while reducing plastic waste.</p>
   
-  <p><b>Why Choose Our Steel Bottle?</b></p>
-  <ul>
-    <li><b>Double-Wall Insulation:</b> Keeps beverages hot for up to 12 hours and cold for 24 hours.</li>
-    <li><b>Leak-Proof & Sweat-Free:</b> No spills, no mess—perfect for on-the-go use.</li>
-    <li><b>Premium Stainless Steel:</b> Rust-resistant, BPA-free, and built to last.</li>
-    <li><b>Lightweight & Travel-Friendly:</b> Ideal for work, gym, hiking, and daily use.</li>
-  </ul>
+//   <p><b>Why Choose Our Steel Bottle?</b></p>
+//   <ul>
+//     <li><b>Double-Wall Insulation:</b> Keeps beverages hot for up to 12 hours and cold for 24 hours.</li>
+//     <li><b>Leak-Proof & Sweat-Free:</b> No spills, no mess—perfect for on-the-go use.</li>
+//     <li><b>Premium Stainless Steel:</b> Rust-resistant, BPA-free, and built to last.</li>
+//     <li><b>Lightweight & Travel-Friendly:</b> Ideal for work, gym, hiking, and daily use.</li>
+//   </ul>
   
-  <p>Say goodbye to single-use plastics and embrace a sustainable lifestyle with our high-quality steel bottle!</p>
-  </p>,
-},
+//   <p>Say goodbye to single-use plastics and embrace a sustainable lifestyle with our high-quality steel bottle!</p>
+//   </p>,
+// },
 
 {
   id: 29,
