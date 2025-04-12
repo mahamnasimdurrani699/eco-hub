@@ -1,5 +1,5 @@
 import Bag from "../assets/Bag.jpg";
-import airPurifier from "../assets/airpurifier.jpg";
+import airPurifier from "../assets/airPurifier.jpg";
 import basket from "../assets/basket.jpeg";
 import bulb from "../assets/bulb.jpeg";
 import candles from "../assets/candles.jpeg";
